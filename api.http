@@ -1,0 +1,9 @@
+# Tag routes
+### Creat a tag
+POST http://localhost:3000/create_tag HTTP/1.1
+Host: localhost:3000
+Content-Type: application/json
+
+{
+  "product_code": "123.456.789-01"
+}
