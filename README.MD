@@ -17,3 +17,13 @@
 ```bash
   pre-commit install
 ```
+
+### Install dependencies
+```bash
+  pip install -r requirements.txt -t <path-to-the-lib-directory>
+```
+
+### Run project
+```bash
+  python3 run_raw.py
+```
