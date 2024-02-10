@@ -27,3 +27,8 @@
 ```bash
   python3 run_raw.py
 ```
+
+### Run all tests
+```bash
+  pytest -s -v
+```
